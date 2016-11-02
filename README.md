@@ -17,3 +17,6 @@ Curated list of links to slides and videos from conferences. Please contribute!
  - [Sarah Soueidan's incredible slides on her case study of smashingmagazine.com](https://sarasoueidan.com/slides/Smashing-Case-Study.pdf)
  - [Scaling Progressive Web Apps: Faster ‘first meaningful paint’ with route-based chunking and HTML streaming (Slides) by Abhinav Rastogi](https://speakerdeck.com/abhinavrastogi/next-gen-web-scaling-progressive-web-apps)
  - [Deconstructing Performance by Denys Mishunov](https://speakerdeck.com/mishunov/deconstructing-performance)
+ 
+ ## An Event Apart San Francisco 2016
+  - [Articles, Links, and Tools From An Event Apart San Francisco 2016](https://aneventapart.com/news/post/san-francisco-2016-resources)
